@@ -1,4 +1,4 @@
-# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+![Ex 3 2](https://github.com/Kavi45-msk/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147457752/f208a36b-106d-490b-9fcf-aba33fb3eb88)# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -42,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![Ex 3 2](https://github.com/Kavi45-msk/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147457752/62992232-3b0c-49a1-8093-cf7ea98ffbc5)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
